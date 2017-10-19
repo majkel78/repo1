@@ -1,1 +1,3 @@
 Pierwsze zajecia z oprogramowaniem git
+pierwsza zmiana
+
