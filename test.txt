@@ -1,3 +1,6 @@
 Pierwsze zajecia z oprogramowaniem git
-pierwsza zmiana
+druga zmiana
+
+tutaj byla linia z pierwsza zmiana
+
 
