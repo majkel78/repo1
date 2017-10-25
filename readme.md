@@ -1,7 +1,7 @@
 # Podstawy programowania
 
 ##### 1. Przygotowanie środowiska
-- instalacja oprogramowania do wirtualizacji
+- instalacja oprogramowania do wirtualizacji (na stanowiskach ze środowiskiem Windows)
 - instalacja środowiska Linux (dystrybucja Ubuntu)
 
 ##### 2. Utworzenie katalogu projektu (w katalogu "Pulpit")
