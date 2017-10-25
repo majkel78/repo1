@@ -29,19 +29,21 @@ $ git init
 ##### 6. Praca z systemem kontroli wersji (polecenia)
 
 ```sh
-git help	# pomoc
-git init	# inicjalizacja
-git add .	# dodanie do systemu wszystkich plików z obecnego katalogu
-git add *.txt	# j.w. -> tylko pliki z rozszerzeniem txt
-git commit -m "komentarz"	
-			# komentarz do plików dodanych poprzednią komendą
-git status	# status plików projektu - porównanie obecnych do ostatnio "zrzuconych"
-git log		# wyświetlenie kolejnych komentarzy do zmian w projekcie
+$ git help	# pomoc
+$ git init	# inicjalizacja
+$ git add .	# dodanie do systemu wszystkich plików z obecnego katalogu
+$ git add *.txt	# j.w. -> tylko pliki z rozszerzeniem txt
+$ git commit -m "komentarz"	
+		# komentarz do plików dodanych poprzednią komendą
 
-git remote add origin https://github.com/majkel78/repo1.git
-			# powiązanie systemu "git" z kontem w serwisie "github.com"
-git push -u origin master	#pierwsze przesłanie projektu do serwisu
-git push	# przesłanie aktualnej wersji projektu do serwisu
+$ git status	# status plików projektu - porównanie obecnych do ostatnio "zrzuconych"
+$ git log	# wyświetlenie kolejnych komentarzy do zmian w projekcie
+
+$ git remote add origin https://github.com/majkel78/repo1.git
+		# powiązanie systemu "git" z kontem w serwisie "github.com"
+
+$ git push -u origin master	#pierwsze przesłanie projektu do serwisu
+$ git push	# przesłanie aktualnej wersji projektu do serwisu
 ```
 
 ##### 7. Plik "readme.md" w serwisie GitHub.com
