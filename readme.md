@@ -1,6 +1,6 @@
 # Podstawy programowania
 
-### 1. Przygotowanie środowiska
+##### 1. Przygotowanie środowiska
 - instalacja oprogramowania do wirtualizacji
 - instalacja środowiska Linux (dystrybucja Ubuntu)
 
